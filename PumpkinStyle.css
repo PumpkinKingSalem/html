@@ -1,4 +1,25 @@
-    p {
-            text-align: center
+Body {
+    Background: rgba(121, 8, 8, 0.733)
+}
+
+#pumpkinking {
+  width: 225px;
+  height: 225px;
+
+}
+
+
+h1 {
+    text-align: center
+}
+
+p {
+            text-align: center;
         }
-      
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color:gold;
+}
